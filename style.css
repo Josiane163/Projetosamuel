@@ -5,3 +5,6 @@
     --secundary-color: #F05454;
     --font: “Sofadi One”, sans-serif;
     }
+    body {
+        background-color: var(--bg-color);
+        }
