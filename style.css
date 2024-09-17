@@ -1,2 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
-
+:root {
+    --bg-color: #222831;
+    --primary-color: #DDDDDD;
+    --secundary-color: #F05454;
+    }
