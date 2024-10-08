@@ -6,3 +6,4 @@ visualizarInformacoesGlobais() {
     const dados = res.json()
 console.log(dados);
 }
+visualizarInformacoesGlobais()
